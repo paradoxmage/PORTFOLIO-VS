@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "arima";
+    src: url(./ArimaMadurai-Regular.ttf);
+}
+
+.right {
+    font-family: "arima";
+}

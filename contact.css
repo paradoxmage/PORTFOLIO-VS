@@ -1,0 +1,23 @@
+html {
+    background-image: url(./efcef1bb7295f29e179f0d61d993d94f.jpg);
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+@font-face {
+    font-family: "poppins";
+    src: url(./Poppins-Regular.ttf);
+}
+
+body {
+    font-family: "poppins";
+    color: ivory;
+}
+
+nav ul {
+    list-style: none;
+}
